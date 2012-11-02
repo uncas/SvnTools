@@ -1,0 +1,7 @@
+*.suo
+*.csproj.user
+*ncrunch*
+_Resharper*
+bin/
+obj/
+/packages/
